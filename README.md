@@ -5,8 +5,8 @@
   <a href="https://open-jaws.github.io">
     <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-F0529C">
   </a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img alt="Arxiv paper link" src="https://img.shields.io/badge/arxiv-XXXX.XXXXX-blue">
+  <a href="https://arxiv.org/abs/2610.36598">
+    <img alt="Arxiv paper link" src="https://img.shields.io/badge/arxiv-2610.36598-blue">
   </a>
   <a href="https://open-jaws.github.io/#video">
     <img alt="Video link" src="https://img.shields.io/badge/video-red">
